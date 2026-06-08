@@ -1,19 +1,23 @@
-# 🔊 fleet-midi-player
+# 🔊 player|MIDI→WAV audio via FluidSynth|python lib/player.py file.mid#→ file.wav — hear what the fleet composed#Professional soundfonts render MIDI as realistic instrument audio#**Next
 
-> *MIDI → Audio rendering server*
+**** [jam-engine](https://github.com/SuperInstance/fleet-jam-engine)**
 
-Renders any Standard MIDI Format 1 file to WAV audio using FluidSynth with professional soundfonts.
+---
+
+## Wait, show me
 
 ```bash
-pip install fluidsynth
-python lib/player.py path/to/file.mid
-# → produces path/to/file.wav
+** [jam-engine](https://github.com/SuperInstance/fleet-jam-engine)
 ```
 
-## Architecture
-```
-MIDI → FluidSynth → SoundFont → WAV audio file
-```
+** [jam-engine](https://github.com/SuperInstance/fleet-jam-engine)
 
-## Ennsign: **Resonance** — Fleet Audio Officer
-**Summon:** `/ensign resonance play path/to/file.mid`
+---
+
+## What's happening
+
+** [jam-engine](https://github.com/SuperInstance/fleet-jam-engine)
+
+---
+
+** [jam-engine](https://github.com/SuperInstance/fleet-jam-engine)
